@@ -4,4 +4,4 @@
 
 > Repositório criado para continuar os estudos sobre Python Orientado a Obejeto
 
-Estou seguindo o curso da Alura [Python: avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos).
+Este projeto é baseado no curso da Alura: [Python: avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos).
