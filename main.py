@@ -77,4 +77,4 @@ minha_playlist = Playlist('fim de semana', listinha)
 for programa in minha_playlist:
     print(programa)
 
-print(f'Tamanho: {len(minha_playlist.listagem)}')
+print(f'Tamanho: {len(minha_playlist)}')
