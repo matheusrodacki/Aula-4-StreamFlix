@@ -4,4 +4,4 @@
 
 > Repositório criado para continuar os estudos sobre Python Orientado a Obejeto
 
-Este projeto é baseado no curso da Alura: [String em Python: extraindo informações de uma URL](https://cursos.alura.com.br/course/string-python-extraindo-informacoes-url).
+Este projeto é baseado no curso da Alura: [Python: avançando na orientação a objetos](https://cursos.alura.com.br/course/python-3-avancando-orientacao-objetos).
